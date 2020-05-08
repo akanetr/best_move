@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/rouka_aori.png"  ]
+[preload  storage="./data/fgimage/default/ud50.png"  ]
+[preload  storage="./data/fgimage/default/label_recollection.png"  ]
+[preload  storage="./data/fgimage/default/noimage.png"  ]
+[return]
